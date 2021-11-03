@@ -1,0 +1,147 @@
+.body-class {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.nav-section{
+    background-image: url(images/a_1c3c796f-16de-414f-a177-ae1cf10b9f6e_700x926_crop_center.jpg);
+}
+#nav {
+    padding: 20px;
+}
+.flex {
+    width: 100%;
+    height: 60%; 
+    background-color: aquamarine;
+    background-clip: content-box;
+    display: flex;
+    text-align: center; 
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    ;
+}
+.flex > div {
+        width: 100%;
+        height: 500px;
+        background-color:aquamarine;
+        background-clip: content-box;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .flex2 {
+        width: 100%;
+        height: 60%;
+        background-color: aquamarine;
+        background-clip: content-box;
+        display: flex;
+        text-align: center; 
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+        justify-content: space-between
+        
+    }
+    .flex2 > div {
+            width: 100%;
+            height: 500px;
+            background-color:cadetblue;
+            background-clip: content-box;
+            display: flex;
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+    
+        }
+
+    .icon-alignment{
+        width: auto;
+        height: auto;
+        max-width: 150px;
+        max-height: 150px;
+        margin: 20px;
+        padding: 10px;
+        border-radius: 80px solid black;
+
+
+    }
+
+    .advert {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: center;
+        background-color: blue;
+         padding-top: 30px;
+         padding-bottom: 20px;
+    }
+    
+    .offers {
+        text-align: center;
+        padding: 30px;
+    }
+
+
+    .shoe-shop{
+        color: black;
+        font-weight: 700;
+        font-size: 30px;
+
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+     }
+     
+     em {
+         color: yellow;
+         font-family: Verdana, Geneva, Tahoma, sans-serif;
+     }
+    .flex2{
+    width: 100%;
+    height: 60%;
+    background-color: aquamarine;
+    background-clip: content-box;
+    display: flex;
+    text-align: center; 
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between}
+
+    .container {
+        flex-direction: row;
+        display:flex;
+        justify-content: space-between;
+        background-color:aquamarine;
+} 
+ header > div > a{ 
+    border: 1px solid black;
+    border-collapse:collapse;
+    background-color: cadetblue;
+    color: black;
+    justify-content: right;
+    padding: 20px;
+    height: 20px;
+    margin-right: 50px;
+ }
+.shoe-history>p{
+    color: black;
+    background-color: lightcoral;
+}
+ .shoe {
+     width: auto;
+     height: auto;
+     max-width: 400px;
+     max-height: 400px;
+ }
+ .footer{border-collapse: separate;
+padding: 10px;
+height: 10px;
+border: 1px solid black;
+float: left;}
+.nav-section {
+text-align: center;
+}
+header {
+    background-color: blue;
+}
